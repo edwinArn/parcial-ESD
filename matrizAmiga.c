@@ -4,7 +4,7 @@ int main (){
 	int tamano,fila,columna,suma1=0,suma2=0,salida=0;;
 	
 	printf("ingrese el tamaño de la matriz cuadrada\n");
-	scanf("%d",&tamano);;
+	scanf("%d",&tamano);
 	
 	int matriz[tamano][tamano];
 	
